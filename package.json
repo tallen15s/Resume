@@ -1,8 +1,8 @@
 {
-  "name": "front-end-starter",
+  "name": "Resume",
   "version": "1.1.0",
   "private": true,
-  "description": "A starter template repo for 'front-end' students",
+  "description": "My Resume and portfolio",
   "main": "index.js",
   "scripts": {
     "start": "browser-sync start --server --files '*.html, *.css, *.js'"
@@ -11,7 +11,7 @@
     "html-css-js",
     "student"
   ],
-  "author": "Manav Misra",
+  "author": "Tom Allen",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.13",

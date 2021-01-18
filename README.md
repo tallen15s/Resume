@@ -18,6 +18,10 @@ Javascript Bootcamp
 ## Work Experience
 1990-1996 US Army
 Light Attack Helicopter mechanic
+- Systems repair
+- Engine repair
+- Airframe 
+
 
 1996-2001 Zone Manager
 Lowe's Home Centers
@@ -47,3 +51,4 @@ Mccoy's Building Supply
 - Jest
 - Netlify
 - Heroku
+
