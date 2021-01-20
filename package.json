@@ -11,7 +11,7 @@
     "html-css-js",
     "student"
   ],
-  "author": "Tom Allen",
+  "author": "Thomas Allen",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.13",
