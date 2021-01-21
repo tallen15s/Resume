@@ -12,7 +12,8 @@ section {
   border-radius: 0;
 }
 .card {
-  background: blue;
+  background: #00f;
+  justify-content: left;
   padding: 1rem;
 }
 .rounded {
@@ -20,10 +21,11 @@ section {
 }
 
 .vertical-rhythm {
-  margin-bottom: var(margin-bottom-rhythm);
+  margin-bottom: var(--margin-bottom-rhythm);
 }
 
 .card2 {
   background: blue;
+  justify-content: left;
   padding: 1rem;
 }
